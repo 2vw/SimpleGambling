@@ -55,7 +55,7 @@ Provide instructions on how to use your Discord bot and any additional informati
 List the main dependencies your bot relies on.
 
 ## Contributing
-If you'd like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to the project, please follow the [Contribution Guidelines](contributing.md).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
